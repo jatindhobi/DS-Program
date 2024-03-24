@@ -5,3 +5,6 @@
 ### [Lab 5](https://github.com/jatindhobi/DS-Program/blob/main/DoublyLinkedList.c) : Doubly Linked List
 ### [Lab 6](https://github.com/jatindhobi/DS-Program/blob/main/InfixToPostfix.c) : Infix Expression To Postfix Expression
 ### [Lab 7](https://github.com/jatindhobi/DS-Program/blob/main/LargestLowestEleArray.c) : It will print Largest and Lowest element
+### [Lab 8](https://github.com/jatindhobi/DS-Program/blob/main/LinearBinarySearch.c) : Linear Binery Search
+### [Lab 9](https://github.com/jatindhobi/DS-Program/blob/main/LinkedListTravrsal.c) : Traversal of Linked List
+### [Lab 10](https://github.com/jatindhobi/DS-Program/blob/main/Linked_List_Deletion.c) : Deletion in Linked List
