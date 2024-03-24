@@ -4,3 +4,4 @@
 ### [Lab 4](https://github.com/jatindhobi/DS-Program/blob/main/DecendArray.c) : Sorting an Array in Decend order
 ### [Lab 5](https://github.com/jatindhobi/DS-Program/blob/main/DoublyLinkedList.c) : Doubly Linked List
 ### [Lab 6](https://github.com/jatindhobi/DS-Program/blob/main/InfixToPostfix.c) : Infix Expression To Postfix Expression
+### [Lab 7](https://github.com/jatindhobi/DS-Program/blob/main/LargestLowestEleArray.c) : It will print Largest and Lowest element
