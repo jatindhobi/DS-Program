@@ -11,4 +11,5 @@
 ### [Lab 11](https://github.com/jatindhobi/DS-Program/blob/main/Linked_List_Insertion.c) : Insertion in Linked List
 ### [Lab 12](https://github.com/jatindhobi/DS-Program/blob/main/QueueInsertion.c) : Insertion in Queue
 ### [Lab 13](https://github.com/jatindhobi/DS-Program/blob/main/Searching.c) : Searching in Array
-### [Lab 14](https://github.com/jatindhobi/DS-Program/blob/main/Sorting.c) : Sort an Array
+### [Lab 14](https://github.com/jatindhobi/DS-Program/blob/main/Sorting.c) : Sorting an Array
+### [Lab 15](https://github.com/jatindhobi/DS-Program/blob/main/Stack_using_array.c) : Stack using Array
