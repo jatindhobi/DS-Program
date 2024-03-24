@@ -8,3 +8,7 @@
 ### [Lab 8](https://github.com/jatindhobi/DS-Program/blob/main/LinearBinarySearch.c) : Linear Binery Search
 ### [Lab 9](https://github.com/jatindhobi/DS-Program/blob/main/LinkedListTravrsal.c) : Traversal of Linked List
 ### [Lab 10](https://github.com/jatindhobi/DS-Program/blob/main/Linked_List_Deletion.c) : Deletion in Linked List
+### [Lab 11](https://github.com/jatindhobi/DS-Program/blob/main/Linked_List_Insertion.c) : Insertion in Linked List
+### [Lab 12](https://github.com/jatindhobi/DS-Program/blob/main/QueueInsertion.c) : Insertion in Queue
+### [Lab 13](https://github.com/jatindhobi/DS-Program/blob/main/Searching.c) : Searching in Array
+### [Lab 14](https://github.com/jatindhobi/DS-Program/blob/main/Sorting.c) : Sort an Array
