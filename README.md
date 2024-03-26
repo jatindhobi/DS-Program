@@ -13,3 +13,4 @@
 ### [Lab 13](https://github.com/jatindhobi/DS-Program/blob/main/Searching.c) : Searching in Array
 ### [Lab 14](https://github.com/jatindhobi/DS-Program/blob/main/Sorting.c) : Sorting an Array
 ### [Lab 15](https://github.com/jatindhobi/DS-Program/blob/main/Stack_using_array.c) : Stack using Array
+### [Lab 16](https://github.com/jatindhobi/DS-Program/blob/main/arrinsertion.c) : Insertion in Array
